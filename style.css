@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Handlee);
+
+body {
+	background-image: url(milk-2.jpg);
+	background-repeat: repeat;
+	background-attachment: fixed;
+
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+		text-align: center;
+		font-family: serif;
+		color: red;
+}
+
+p {
+	font-family:Arial;
+}
+
+a, a:hover {
+	text-decoration: none;
+	color: inherit;	
+}
+
+.pre {
+	font-family: "Courier New", Courier, monospace;	
+}
+
+.text {
+	background-color: #9E8CD5;
+}
+
+.foto {
+	margin: 20px;
+}
+
+.big {
+	font-style: italic;
+	display: inline-block;
+	font-size: 80px;
+	font-family: Handlee;
+}
+
+.box-1 {
+	background-color: #5ed2c3;
+}
+
+.border {
+	border-style: solid;
+	border-width: 4px; 
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.tab {
+	margin: 20px;
+	max-width: inherit;
+}
+
+.alternativa {
+	text-align: center;
+	margin-bottom: 10px;	
+}
+
+.false {
+	background-color: red;
+	border-radius: 6px;
+	line-height: 1.33333;
+	padding: 10px 16px;		
+	display: inline-block;	
+	font-size: 18px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #990000	
+
+}
+
+.story {
+	background-color: #620;
+	color: turquoise;
+}
+
+.wildcats {
+	background-color: green;
+	font-size: 60px;
+	font-family: Handlee;
+}
+
+
+footer {
+	background-color: #333;
+	color: #BBB;
+}
+
+footer ul {
+	display: inline-block;
+}
